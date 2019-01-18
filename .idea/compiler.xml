@@ -13,6 +13,7 @@
         <module name="mapreduce" />
         <module name="scala" />
         <module name="spark1" />
+        <module name="spark2" />
       </profile>
     </annotationProcessing>
   </component>

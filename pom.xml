@@ -16,6 +16,7 @@
         <module>scala</module>
         <module>kafka</module>
         <module>spark1</module>
+        <module>spark2</module>
     </modules>
 
 
