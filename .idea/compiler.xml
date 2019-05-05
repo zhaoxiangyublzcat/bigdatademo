@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hbase" />
-        <module name="hdfs" />
-        <module name="hive" />
-        <module name="kafka" />
         <module name="mapreduce" />
-        <module name="scala" />
-        <module name="spark1" />
         <module name="spark2" />
+        <module name="spark1" />
+        <module name="hdfs" />
+        <module name="kafka" />
+        <module name="hive" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scala" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

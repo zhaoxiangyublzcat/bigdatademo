@@ -13,7 +13,6 @@
         <module>mapreduce</module>
         <module>hive</module>
         <module>hbase</module>
-        <module>scala</module>
         <module>kafka</module>
         <module>spark1</module>
         <module>spark2</module>

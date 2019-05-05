@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+hbase/src/main/resources/
+hbase/src/test/
+hdfs/src/main/resources/
+hdfs/src/test/
+hive/src/main/resources/
+hive/src/test/
+kafka/src/main/resources/
+kafka/src/test/
+mapreduce/src/main/resources/
+mapreduce/src/test/
+spark1/src/main/java/sparkstreaming/flume/
+spark1/src/main/resources/
+spark1/src/test/
+spark2/src/test/
